@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#title {
+  text-align: center;
+}
+
+.section {
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.text {
+  font-size: 16px;
+}
+
+.wafer {
+  width: 300px;
+}
+
+a:hover {
+  color: rgb(247, 149, 2);
+}
